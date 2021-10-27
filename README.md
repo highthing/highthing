@@ -1,6 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ahmet Solmaz</h1>
 <h3 align="center">A passionate Test Development and Data Analysis from Turkey</h3>
-
+<p align="center"> 
+<img src="https://komarev.com/ghpvc/?username=highthing&color=orange" alt="watching_count" />
+ </p>
+ <p align="center">
+  <img src="https://img.shields.io/badge/Focus-Test%20Engineering-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-Turkey-brightgreen" />
+  <img src="https://img.shields.io/badge/Languages-Turkish%20%26%20English-brightgreen" />
+</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/solmazahmet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="solmazahmet" height="30" width="40" /></a>
