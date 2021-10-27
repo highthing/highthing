@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmet Solmaz</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Ahmet Solmaz </h1>
 <h3 align="center">A passionate Test Development and Data Analysis from Turkey</h3>
 <p align="center"> 
 <img src="https://komarev.com/ghpvc/?username=highthing&color=orange" alt="watching_count" />
